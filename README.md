@@ -21,10 +21,9 @@ This package contains:
 
 Most of these programs are undocumented or have lost their documentation, so will take a while to learn. Programs like `ctext.exe` do include some breif documentation if evoked with the program's name while in the directory saved using the Windows Console/Command Prompt ( `cmd.exe` ).
 
-`[]-------------------------------------------------------------------------[]
-| CTEXT.EXE : Version 2K.232 (C)opyright Dennis Bareis 2000                 |
-| http://www.labyrinth.net.au/~dbareis/index.htm (dbareis@labyrinth.net.au) |
-[]-------------------------------------------------------------------------[]`
+
+`CTEXT.EXE : Version 2K.232 (C)opyright Dennis Bareis 2000`
+`http://www.labyrinth.net.au/~dbareis/index.htm (dbareis@labyrinth.net.au)`
 
 If you are like me you are not happy that windows does not support ANSI color
 codes on the command line.

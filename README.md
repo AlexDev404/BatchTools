@@ -22,6 +22,13 @@ This package contains:
 Most of these programs are undocumented or have lost their documentation, so will take a while to learn. Programs like `ctext.exe` do include some breif documentation if evoked with the program's name while in the directory saved using the Windows Console/Command Prompt ( `cmd.exe` ).
 
 Output from ctext/colous.exe:
+# How to use `KBD.EXE`
+
+KBD works by detecting the errorlevel of your key. To find the errorlevel of your key, run these commands and follow this process.
+ 1. Envoke `kbd.exe` from the command line
+ 1. Afterward, type in `echo %errorlevel%` which will return the errorlevel of your key.
+
+# How to use `COLOUS/CTEXT.EXE`
 
 `CTEXT.EXE : Version 2K.232 (C)opyright Dennis Bareis 2000`
 <br>

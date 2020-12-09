@@ -49,4 +49,4 @@ batch file:
 
     ctext.exe "{bred on black}"
     This message is in bright red on black
-    ctext.exe "{07}"`
+    ctext.exe "{07}"

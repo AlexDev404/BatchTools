@@ -9,7 +9,7 @@ The classic BatchTools that includes all the hard to find tools like graphic.exe
 
 - These applications provide you to create a multitude of games and software.
 
-- If you are a person who like retro (like me), these are the right tools for you. With these you are able to create batch-style games, etc.
+- If you are a person who likes retro stuff (like me), these are the right tools for you. With these you are able to create batch-style games, etc.
 
 This package contains:
 
@@ -19,7 +19,7 @@ This package contains:
 - `Kbd.exe`
 - `Mouse.exe`
 
-Most of these programs are undocumented or have lost their documentation, so will take a while to learn. Programs like `ctext.exe` do include some breif documentation if evoked with the program's name while in the directory saved using the Windows Console/Command Prompt ( `cmd.exe` ).
+Most of these programs are undocumented or have lost their documentation, so will take a while to learn. Programs like `ctext.exe` do include some brief documentation if evoked with the program's name while in the directory saved using the Windows Console/Command Prompt ( `cmd.exe` ).
 
 Output from ctext/colous.exe:
 # How to use `KBD.EXE`
